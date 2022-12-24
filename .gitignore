@@ -1,4 +1,9 @@
 # executable #
 */.a.out
+
+# database #
 test.db
 test.sql
+
+# text file #
+new.txt
